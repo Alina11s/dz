@@ -13,4 +13,4 @@ while i < m do
         i = i + 1
         n = n - 1
         a[i] = -n
-output a[m] 
+output a[m]  
