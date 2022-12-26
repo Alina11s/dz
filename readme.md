@@ -16,7 +16,7 @@ Cоздала коммит git commit -m"Сделала файл scheme.drawio.p
 Посмотреть ветки - git branch
 Слить ветки - git merge vetka
 Откатить слияние - git --abort
-Посмотреть инфу по веткам и слияниям - git --graph --oneline --all
+Посмотреть инфу по веткам и слияниям - git log --graph --oneline --all
 
 Создала vetka1 
 Создала коммит в vetka1
